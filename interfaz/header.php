@@ -2,7 +2,7 @@
     <nav id="theMenu" class="menu">
         <div id="menu-options" class="menu-wrap">
             <div class="logo-flat">
-                <img alt="personal-logo" class="img-responsive" src="images/ingmorales.png">
+                <img alt="personal-logo" class="img-circle" src="images/ingmorales.jpg" width="150" height="230">
             </div>
             <br>
             <a href="#home"><i class="title-icon fa fa-user"></i>Inicio</a>
@@ -32,7 +32,7 @@
                         <div id="v-card" class="card">
 
                             <div id="profile" class="right">
-                                <img alt="profile-image" class="img-responsive" src="images/profile.png">
+                                <img alt="profile-image" class="img-responsive" src="images/foto.jpg">
                                 <div class="slant"></div>
                                 <div class="btn-floating btn-large add-btn">
                                     <a href="#" class="modal-dot" data-toggle="modal" data-target="#logo">

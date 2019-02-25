@@ -166,10 +166,46 @@
                                     <div class="skill-bar-percent">90%</div>
                                 </div>
 
+                                <div class="skillbar" data-percent="55%">
+                                    <div class="skillbar-title"><span>React Native</span></div>
+                                    <div class="skillbar-bar"></div>
+                                    <div class="skill-bar-percent">55%</div>
+                                </div>
+
                                 <div class="skillbar" data-percent="90%">
                                     <div class="skillbar-title"><span>PHP</span></div>
                                     <div class="skillbar-bar"></div>
                                     <div class="skill-bar-percent">90%</div>
+                                </div>
+
+                                <div class="skillbar" data-percent="90%">
+                                    <div class="skillbar-title"><span>Hack</span></div>
+                                    <div class="skillbar-bar"></div>
+                                    <div class="skill-bar-percent">90%</div>
+                                </div>
+
+                                <div class="skillbar" data-percent="70%">
+                                    <div class="skillbar-title"><span>C#</span></div>
+                                    <div class="skillbar-bar"></div>
+                                    <div class="skill-bar-percent">70%</div>
+                                </div>
+
+                                <div class="skillbar" data-percent="70%">
+                                    <div class="skillbar-title"><span>Type Script</span></div>
+                                    <div class="skillbar-bar"></div>
+                                    <div class="skill-bar-percent">70%</div>
+                                </div>
+
+                                <div class="skillbar" data-percent="80%">
+                                    <div class="skillbar-title"><span>Ionic</span></div>
+                                    <div class="skillbar-bar"></div>
+                                    <div class="skill-bar-percent">80%</div>
+                                </div>
+
+                                <div class="skillbar" data-percent="75%">
+                                    <div class="skillbar-title"><span>Sass</span></div>
+                                    <div class="skillbar-bar"></div>
+                                    <div class="skill-bar-percent">75%</div>
                                 </div>
 
                                 <div class="skillbar" data-percent="60%">
@@ -200,6 +236,12 @@
                                     <div class="skillbar-title"><span>JavaScript</span></div>
                                     <div class="skillbar-bar"></div>
                                     <div class="skill-bar-percent">60%</div>
+                                </div>
+
+                                <div class="skillbar" data-percent="75%">
+                                    <div class="skillbar-title"><span>PostgreSQL</span></div>
+                                    <div class="skillbar-bar"></div>
+                                    <div class="skill-bar-percent">75%</div>
                                 </div>
 
                                 <div class="skillbar" data-percent="75%">
@@ -266,6 +308,24 @@
                                     <div class="skill-bar-percent">80%</div>
                                 </div>
 
+                                <div class="skillbar" data-percent="80%">
+                                    <div class="skillbar-title"><span>Visual Code</span></div>
+                                    <div class="skillbar-bar"></div>
+                                    <div class="skill-bar-percent">80%</div>
+                                </div>
+
+                                <div class="skillbar" data-percent="90%">
+                                    <div class="skillbar-title"><span>Github</span></div>
+                                    <div class="skillbar-bar"></div>
+                                    <div class="skill-bar-percent">90%</div>
+                                </div>
+
+                                <div class="skillbar" data-percent="90%">
+                                    <div class="skillbar-title"><span>Microsft Office</span></div>
+                                    <div class="skillbar-bar"></div>
+                                    <div class="skill-bar-percent">90%</div>
+                                </div>
+
                                 <div class="skillbar" data-percent="70%">
                                     <div class="skillbar-title"><span>Adobe Audition</span></div>
                                     <div class="skillbar-bar"></div>
@@ -282,6 +342,12 @@
                                     <div class="skillbar-title"><span>Dev Console</span></div>
                                     <div class="skillbar-bar"></div>
                                     <div class="skill-bar-percent">80%</div>
+                                </div>
+
+                                <div class="skillbar" data-percent="90%">
+                                    <div class="skillbar-title"><span>cPanel</span></div>
+                                    <div class="skillbar-bar"></div>
+                                    <div class="skill-bar-percent">90%</div>
                                 </div>
 
                                 <div class="skillbar" data-percent="95%">
@@ -323,6 +389,7 @@
         </div>
 
         <div id="timeline-experience">
+
             <div class="timeline-block">
                 <div class="timeline-dot"><h6>A</h6></div>
                 <div class="card timeline-content">
@@ -346,6 +413,7 @@
                     </div>
                 </div>
             </div>
+
             <div class="timeline-block">
                 <div class="timeline-dot"><h6>D</h6></div>
                 <div class="card timeline-content">
@@ -366,6 +434,79 @@
                     </div>
                 </div>
             </div>
+
+            <div class="timeline-block">
+                <div class="timeline-dot"><h6>J</h6></div>
+                <div class="card timeline-content">
+                    <div class="card-content">
+                        <h6 class="timeline-title"><strong>Junior's Master Producciones</strong></h6>
+                        <div class="timeline-info">
+                            <h6>
+                                <small>Desarrollador Web</small>
+                            </h6>
+                            <h6>
+                                <small>Diciembre 2018 - Actualidad</small>
+                            </h6>
+                        </div>
+                        <p>
+                            Desarrollo mediante tecnología CMS + PHP + MySQL + Bootstrap sitio web profesional para la Empresa Junior's Master Multimedia de la ciudad de Caqueza - Cundinamarca, sitio web dinamico con publicación de noticias, eventos y prestación de servicios de producción multimedia.
+                        </p>
+                        <a href="http://jmstudiomultimedia.com/" target="_blank">
+                            <span class="label label-info">Ir al Sitio</span>
+                        </a>
+                        <span class="label label-success">Terminado</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-block">
+                <div class="timeline-dot"><h6>T</h6></div>
+                <div class="card timeline-content">
+                    <div class="card-content">
+                        <h6 class="timeline-title"><strong>Team Manigua Runners</strong></h6>
+                        <div class="timeline-info">
+                            <h6>
+                                <small>Desarrollador Web</small>
+                            </h6>
+                            <h6>
+                                <small>Enero 2018 - Actualidad</small>
+                            </h6>
+                        </div>
+                        <p>
+                            Plataforma deportiva e informativa basada en PHP + Bootstrap + MySQL + CMS en donde se publican resultados, noticias, eventos, etc. 
+                        </p>
+                        <a href="http://maniguarunners.com/" target="_blank">
+                            <span class="label label-info">Ir al Sitio</span>
+                        </a>
+                        <span class="label label-success">Terminado</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-block">
+                <div class="timeline-dot"><h6>M</h6></div>
+                <div class="card timeline-content">
+                    <div class="card-content">
+                        <h6 class="timeline-title"><strong>Edilberto Molina</strong></h6>
+                        <div class="timeline-info">
+                            <h6>
+                                <small>Desarrollador Web</small>
+                            </h6>
+                            <h6>
+                                <small>Diciembre 2018 - Actualidad</small>
+                            </h6>
+                        </div>
+                        <p>
+                            Se desarrollo sitio web profesional para el lider social y politico Edilberto Molina Hernandez, en donde se puede administrar dinamica mediante un CMS la página web.
+                        </p>
+                        <a href="http://edilbertomolina.com/" target="_blank">
+                            <span class="label label-info">Ir al Sitio</span>
+                        </a>
+                        <span class="label label-success">Terminado</span>
+                    </div>
+                </div>
+            </div>
+
             <div class="timeline-block">
                 <div class="timeline-dot"><h6>I</h6></div>
                 <div class="card timeline-content">
@@ -411,6 +552,31 @@
                             <span class="label label-info">Ir al Sitio</span>
                         </a>
                         <span class="label label-success">Terminado</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-block">
+                <div class="timeline-dot"><h6>Z</h6></div>
+                <div class="card timeline-content">
+                    <div class="card-content">
+                        <h6 class="timeline-title"><strong>Zonas Deportivas</strong></h6>
+                        <div class="timeline-info">
+                            <h6>
+                                <small>Desarrollador Web</small>
+                            </h6>
+                            <h6>
+                                <small>Agosto 2018 - Actualidad</small>
+                            </h6>
+                        </div>
+                        <p>
+                            Plataforma web para alquiler (reservas) de canchas sinteticas en el Municipio de Florencia, Caquetá, desarrollo mediante tecnología PHP + Bootstrap + MySQL.
+                        </p>
+                        <!-- BUTTON TRIGGER MODAL -->
+                        <a href="http://zonasdeportivas.com/" target="_blank">
+                            <span class="label label-info">Ir al Sitio</span>
+                        </a>
+                        <span class="label label-danger">Producción</span>
                     </div>
                 </div>
             </div>
